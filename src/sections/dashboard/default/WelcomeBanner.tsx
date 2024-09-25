@@ -45,7 +45,8 @@ export default function WelcomeBanner() {
         <Grid item md={6} sm={6} xs={12}>
           <Stack spacing={2} sx={{ padding: 3 }}>
             <Typography variant="h2" color={theme.palette.background.paper}>
-              Explore Redesigned Able Pro
+              {/* Explore Redesigned Able Pro */}
+              Bill OX
             </Typography>
             <Typography variant="h6" color={theme.palette.background.paper}>
               The Brand new User Interface with power of Material-UI Components. Explore the Endless possibilities with Able Pro.
